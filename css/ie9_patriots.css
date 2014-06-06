@@ -1,0 +1,5 @@
+.branding .elvis img { display:none; }
+.branding .elvis { background:transparent url('../images/sePatriots_logo.gif') no-repeat top left; width:217px; height:105px; }
+.patriotHeader img { display:none; }
+.patriotHeader { background:transparent url('../images/southElginPatriots.gif') no-repeat top left; width:237px; height:17px; }
+.patriotSubText { width:200px; }
